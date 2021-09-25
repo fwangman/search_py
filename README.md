@@ -6,6 +6,8 @@
 
 * pip install requests
 
+* add api_key
+
 * edit keyword in q, result number in num and output name of csv
 
 * python search.py
