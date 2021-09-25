@@ -1,6 +1,6 @@
 # search_py
 
-* install python and pip
+* install python3 and pip
 
 * pip install google-search-results
 
